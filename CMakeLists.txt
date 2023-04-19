@@ -14,3 +14,4 @@ project ("cpp20-features")
 # Include sub-projects.
 add_subdirectory ("spaceship-operator")
 add_subdirectory ("concept-requirements")
+add_subdirectory ("atomic-ref")
