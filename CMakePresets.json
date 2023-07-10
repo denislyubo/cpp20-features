@@ -58,14 +58,6 @@
             }
         },
         {
-            "name": "debug",
-            "description": "",
-            "displayName": "",
-            "inherits": [
-                "x64-debug"
-            ]
-        },
-        {
             "name": "debug-gcc-12",
             "displayName": "GCC 12.1.0 x86_64-linux-gnu",
             "description": "Using compilers: C = /usr/bin/gcc-12",
@@ -76,5 +68,5 @@
                 "CMAKE_BUILD_TYPE": "Debug"
             }
         }
-    ]
+    ]  
 }

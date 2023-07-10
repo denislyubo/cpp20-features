@@ -50,7 +50,7 @@ int main(int argc, char* argv[])
     int arr[3] ={1,7,9};
     print(arr);
 
-    print({2,4,9});
+    //print({2,4,9});
     
     return 0;
 }
